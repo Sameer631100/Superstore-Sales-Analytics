@@ -1,5 +1,3 @@
-Here is the formatted content using bold headings, clear section breaks, subheadings, and structured lists for maximum readability:
-
 📊 **Superstore Sales Analytics Dashboard**
 
 A dynamic, interactive Power BI dashboard built to analyze Superstore sales performance across different regions, customer segments, shipping modes, payment methods, categories, and time periods. The dashboard enables users to monitor sales trends, evaluate profitability, and uncover actionable business insights for data-driven decision-making.
@@ -149,18 +147,18 @@ Highlights top-performing product sub-categories (e.g., Chairs, Binders, Phones)
 
 📈 **Business Impact & Insights**
 
-Sales Performance Monitoring: Enables management to monitor overall revenue, profit, and sales quantity from a single dashboard.
+**Sales Performance Monitoring:** Enables management to monitor overall revenue, profit, and sales quantity from a single dashboard.
 
-Regional Decision-Making: Helps identify top-performing regions and areas requiring strategic improvement.
+**Regional Decision-Making:** Helps identify top-performing regions and areas requiring strategic improvement.
 
-Customer Analysis: Reveals which customer segments contribute the highest sales, supporting targeted marketing campaigns.
+**Customer Analysis:** Reveals which customer segments contribute the highest sales, supporting targeted marketing campaigns.
 
-Product Optimization: Identifies best-selling categories and sub-categories to improve inventory planning and merchandising.
+**Product Optimization:** Identifies best-selling categories and sub-categories to improve inventory planning and merchandising.
 
-Logistics Optimization: Provides insights into preferred shipping methods for better operational planning.
+**Logistics Optimization:** Provides insights into preferred shipping methods for better operational planning.
 
-Payment Strategy: Highlights customer payment preferences, enabling businesses to optimize payment options and improve customer experience.
+**Payment Strategy:** Highlights customer payment preferences, enabling businesses to optimize payment options and improve customer experience.
 
-Trend Analysis: Year-over-year comparisons help detect seasonal patterns and forecast future business performance.
+**Trend Analysis:** Year-over-year comparisons help detect seasonal patterns and forecast future business performance.
 
-Geographical Insights: State-level analysis supports regional expansion, resource allocation, and sales strategy development.
+**Geographical Insights:** State-level analysis supports regional expansion, resource allocation, and sales strategy development.
