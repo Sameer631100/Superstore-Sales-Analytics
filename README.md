@@ -30,10 +30,6 @@ It helps business managers, sales analysts, and decision-makers:
 | **Data Modeling**              | Established relationships between multiple tables for interactive filtering and aggregation |
 | **Interactive Visualizations** | Line charts, bar charts, donut charts, KPI cards, slicers, and map visualizations           |
 
-### 📄 File Formats
-
-* `.pbit` – Power BI Template file
-* `.png` – Dashboard preview image
 
 ---
 
